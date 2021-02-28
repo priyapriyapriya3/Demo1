@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/Shanthi-Lalitha/shadevopsproj/_apis/build/status/Demo1.git?branchName=main)](https://dev.azure.com/Shanthi-Lalitha/shadevopsproj/_build/latest?definitionId=1&branchName=main)
